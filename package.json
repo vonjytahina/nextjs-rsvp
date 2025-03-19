@@ -2,12 +2,10 @@
   "name": "rsvp-app-demo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vonjytahina.github.io/rsvp-nextjs",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "export": "next export",
-    "deploy": "next build && next export && gh-pages -d out"
+    "export": "next export"
   },
   "dependencies": {
     "@radix-ui/react-label": "^2.1.2",

@@ -4,9 +4,6 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  trailingSlash: true,
-  basePath: '/rsvp-nextjs',
-  assetPrefix: '/rsvp-nextjs/',
 };
 
 export default nextConfig;
